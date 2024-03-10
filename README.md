@@ -16,7 +16,7 @@ Where:
 - **Multi-Modality**: It has multiple local minima.
 - **Periodicity**: Features oscillations due to the cosine term.
 
-The global minimum of the Rastrigin function is at $ f(x^*)=0 $, where $x^*$ is the vector of solution variables that minimizes the function.
+The global minimum of the Rastrigin function is at $f(x^*)=0$, where $x^*$ is the vector of solution variables that minimizes the function.
 
 In the case of the Rastrigin function, the global minimum occurs at $x^*=0 $, where all components of $x$ are zero. When all components are zero, each term in the function becomes zero, leading to the minimum value of zero for the entire function.
 
