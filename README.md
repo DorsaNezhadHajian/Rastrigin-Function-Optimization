@@ -21,9 +21,9 @@ Where:
 In the case of the Rastrigin function, the global minimum occurs where all components of $x$ are zero. When all components are zero, each term in the function becomes zero, leading to the minimum value of zero for the entire function.
 
 This minimum value of zero is what optimization algorithms aim to find, as it represents the best possible solution for the Rastrigin function. However, due to its rugged landscape and multiple local minima, finding this global minimum can be challenging for optimization algorithms.
+\\
 
-
-# Genetic Algorithm Parameters
+# Genetic Algorithm 
 A genetic algorithm (GA) is a metaheuristic optimization algorithm inspired by the process of natural selection and evolution. It is commonly used to find approximate solutions to optimization and search problems. Below, I'll explain the parameters set for a genetic algorithm:
 
 ## Genetic Algorithm Parameters
