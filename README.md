@@ -4,7 +4,7 @@ The Rastrigin function is a popular benchmark function in optimization. It is co
 ## Function Definition
 The Rastrigin function is defined as:
 
-$f(x) = A \cdot n +$ $\sum_{i=1}^{n} (x_i^2 - A \cdot \cos(2\pi x_i))$
+$f(x) = A \cdot n + \sum_{i=1}^{n} \left( x_i^2 - A \cdot \cos(2\pi x_i) \right)$
 
 Where:
 - `x` is a vector of real numbers representing the solution variables.
