@@ -1,4 +1,6 @@
 # Rastrigin-Function-Optimization
+<span style="color:red;">Red Text</span>
+
 The Rastrigin function is a popular benchmark function in optimization. It is commonly used to test the performance of optimization algorithms due to its rugged landscape and multiple local minima.
 
 ## Function Definition
